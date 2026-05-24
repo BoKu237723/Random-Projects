@@ -1,0 +1,5 @@
+2026-05-24 19:29:12.748272 : User and Computer were Tie
+2026-05-24 19:29:13.916808 : User Chose paper and Computer Chose rock. User Wins.
+2026-05-24 19:29:15.432817 : User Chose scissors and Computer Chose paper. User Wins.
+2026-05-24 19:29:17.338406 : User Chose scissors and Computer Chose rock. User Loses.
+2026-05-24 19:29:18.064185 : User and Computer were Tie
