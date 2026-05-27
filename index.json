@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "name": "UserZero",
+        "game_data": {
+            "total_amount": 0,
+            "savings": 20,
+            "history": {}
+        }
+    },
+    {
+        "id": 1,
+        "name": "UserOne",
+        "game_data": {
+            "total_amount": 0,
+            "savings": 0,
+            "history": {}
+        }
+    },
+    {
+        "id": 2,
+        "name": "UserTwo",
+        "game_data": {
+            "total_amount": 0,
+            "savings": 0,
+            "history": {}
+        }
+    }
+]

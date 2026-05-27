@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "UserZero",
+        "game_data": {
+            "total_amount": 22,
+            "savings": 9,
+            "history": {
+                "round1": {
+                    "1. round": 6,
+                    "2. round": 4,
+                    "3. round": 7,
+                    "4. round": 5
+                },
+                "round2": {
+                    "1. round": 9
+                }
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "UserOne",
+        "game_data": {
+            "total_amount": 10,
+            "savings": 0,
+            "history": {
+                "round1": {
+                    "1. round": 10
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "UserTwo",
+        "game_data": {
+            "total_amount": 0,
+            "savings": 0,
+            "history": {
+                "round1": {
+                    "1. round": 9,
+                    "2. round": 8,
+                    "3. round": 8,
+                    "4. round": 8,
+                    "5. round": 2,
+                    "6. round": 5,
+                    "7. round": 9,
+                    "8. round": 9,
+                    "9. round": 3,
+                    "10. round": 1
+                }
+            }
+        }
+    }
+]

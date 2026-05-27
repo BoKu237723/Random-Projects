@@ -6,5 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+notes/
+00-abandoned_projects/
+
 # Virtual environments
 .venv
