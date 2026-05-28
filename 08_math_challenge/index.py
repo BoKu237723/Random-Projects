@@ -35,23 +35,3 @@ print("---------------------------")
 print("Nice work!")
 print(f"You finished all {TOTAL_PROLEMS} in {total_time:.2f} time!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
